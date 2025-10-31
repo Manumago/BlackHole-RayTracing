@@ -1,6 +1,6 @@
 # Simulación de la propagación de rayos de luz en torno a un agujero negro
 
-Este repositorio contiene una simulación numérica de la propagación de rayos de luz en un espacio-tiempo curvado por la presencia de un agujero negro, desarrollada como parte de un proyecto computacional en relatividad y óptica gravitacional.  
+Este repositorio contiene una simulación numérica de la propagación de rayos de luz en un espacio-tiempo curvado por la presencia de un agujero negro, desarrollada como parte de un proyecto computacional en astrofísica moderna.
 El estudio se basa en la **aproximación eikonal**, donde la curvatura del espacio-tiempo se modela mediante un índice de refracción efectivo, permitiendo describir la deflexión de los rayos sin resolver explícitamente las geodésicas completas.
 
 ---
